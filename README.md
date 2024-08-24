@@ -23,20 +23,20 @@ The Verilog to SystemVerilog Conversion Tool is designed to automatically conver
    ```bash
    cd Verilog-to-SystemVerilog-Converter
 
-3.** Install Dependencies**:
-- **This project requires Python 3.x. Ensure you have Python installed.
-- **No additional dependencies are required beyond Python's standard library.
+3. **Install Dependencies**:
+- **This project requires Python 3.x. Ensure you have Python installed.**
+- **No additional dependencies are required beyond Python's standard library.**
 
 ## Usage
 
 1. **Prepare Your Verilog File**:
-- **Place the Verilog file you want to convert in the project directory.
-- **Run the Conversion Script:
+- **Place the Verilog file you want to convert in the project directory.**
+- **Run the Conversion Script:**
 
 2.**Use the Python script to convert the Verilog file to SystemVerilog**:
 ```bash
    python verilog_to_systemverilog.py <verilog_file_path>
 ```
 3. **Check the Output**:
-- **The converted SystemVerilog file will be saved in the same directory with the .sv extension.
+- **The converted SystemVerilog file will be saved in the same directory with the .sv extension.**
 
